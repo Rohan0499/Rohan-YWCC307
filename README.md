@@ -6,3 +6,8 @@ Talked about differences between those two programming languages and how it is b
 I also talked about advantages and disadvantages of each of them and which one is better out of those two in software development.
 # YWCC Syllabus
 [YWCC-307-Vaish.pdf](https://github.com/Rohan0499/Rohan-YWCC307/files/8366832/YWCC-307-Vaish.pdf)
+
+#Meeting Minutes 
+[TeamMeeting4-26.docx](https://github.com/Rohan0499/Rohan-YWCC307/files/8567400/TeamMeeting4-26.docx)
+
+
